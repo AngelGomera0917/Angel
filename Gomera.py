@@ -1,2 +1,2 @@
 print("Darli es la mejor maestra de English.")
-print("Angel Adora esta mujer")
+print("Angel adora pasar tiempo con esta adorable mujer")
