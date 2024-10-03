@@ -20,7 +20,7 @@ name, apellido, edad = "Darli", "Diaz", 22
 
 print("Mi nombre es {} {}, y tengo {} años de edad.".format(name,apellido,edad))
 print("Mi nombre es %s %s, y tengo %d años de edad."%(name,apellido,edad))
-print(f"Mi nombre es {name} {apellido}, y tengo {edad} años de edad.")
+print(f"Mi nombre es {name} {apellido}, y tengo {edad}años de edad.")
 print(f"{4+4}")
 
 #Desempaqueado de carateres 
