@@ -4,13 +4,13 @@ from lib2to3.pgen2.driver import Driver
 
 print("\n")
 
-my_linea_string = "Esta es un string\ncon salto de linea"
+my_linea_string = "Esta es un string\ncon salto de linea..."
 print(my_linea_string)
 
-my_tabulacion_string = "\tEsta es un string con tabulacion"
+my_tabulacion_string = "\tEsta es un string con tabulacion..."
 print(my_tabulacion_string)
 
-my_linea_string = "\tEsta es un string\nescapado"
+my_linea_string = "\tEsta es un string\nescapado..."
 print(my_linea_string)
 
 #Formateo
